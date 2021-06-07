@@ -39,5 +39,9 @@
       "last 1 safari version"
     ]
   },
+<<<<<<< HEAD
   "homepage": "https://ayyb.github.io/movie_app_2021/"
+=======
+  "homepage":"https://ayyb.github.io/movie_app_2021/"
+>>>>>>> 991d006ee328bacbcb055648e3f1ac41a3b8acff
 }
